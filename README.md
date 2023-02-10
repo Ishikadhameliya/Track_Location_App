@@ -1,16 +1,4 @@
-# track_location_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/121867953/218041517-ca270bf6-2d94-4a44-a945-32e8b8797496.png)
+![image](https://user-images.githubusercontent.com/121867953/218041621-a5bd2ebf-7fa5-4174-9159-4f466709cec7.png)
+![image](https://user-images.githubusercontent.com/121867953/218041676-27975c3b-037e-4fd9-bd0b-66ed3442c125.png)
+![image](https://user-images.githubusercontent.com/121867953/218041788-d85cf57c-d1d4-4adb-88d9-17c8b77932c5.png)
